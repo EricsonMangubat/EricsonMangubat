@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricsonMangubat
-- 👀 I’m interested in C or C++ language
-- 🌱 I’m currently learning CS50 Understanding Technology
-- 💞️ I’m looking to collaborate on C++ programming
+- 👀 I’m completing my Data Analytics Capstone Project.
+- 🌱 I’m still learning how to use R in github.
+- 💞️ After this, I will continue studying Web Development at FreeCodeCamp. 
 - 📫 How to reach me: ecmangubat@gmail.com
 
 <!---
