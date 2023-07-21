@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EricsonMangubat
 - 👀 I’m completing my Data Analytics Capstone Project.
-- 🌱 I’m still learning how to use R in github.
+- 🌱 I’m still learning how to use R and SQL in github.
 - 💞️ After this, I will continue studying Web Development at FreeCodeCamp. 
 - 📫 How to reach me: ecmangubat@gmail.com
 
